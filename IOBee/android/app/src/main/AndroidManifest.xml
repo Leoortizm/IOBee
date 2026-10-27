@@ -8,7 +8,7 @@
          FlutterApplication and put your custom class here. -->
     <application
         android:name="io.flutter.app.FlutterApplication"
-        android:label="como_gasto"
+        android:label="IOBee"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"

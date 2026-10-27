@@ -1,4 +1,4 @@
-import 'package:como_gasto/graph_widget.dart';
+import 'package:iobee/graph_widget.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';

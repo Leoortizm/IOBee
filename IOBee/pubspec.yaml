@@ -1,5 +1,5 @@
-name: como_gasto
-description: An app to help to track your expenses
+name: iobee
+description: App móvil de IOBee para monitorear la producción de miel en colmenas Langstroth.
 
 # The following defines the version and build number for your application.
 # A version number is three numbers separated by dots, like 1.2.43
